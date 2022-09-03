@@ -28,7 +28,7 @@ class CustomArgParser {
           abbr: CustomArgs.includeExternalFiles.abbr,
           help: CustomArgs.includeExternalFiles.description)
       ..addOption(CustomArgs.excludeLibFiles.name,
-          abbr: CustomArgs.excludeLibFiles.name,
+          abbr: CustomArgs.excludeLibFiles.abbr,
           help: CustomArgs.excludeLibFiles.description)
       ..addOption(CustomArgs.outputDirectory.name,
           abbr: CustomArgs.outputDirectory.abbr,
