@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Installation
+`dart pub global activate very_easy_localization`
+
+Usage
+`dart pub global run very_easy_localization --help`
