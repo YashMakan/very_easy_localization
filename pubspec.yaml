@@ -1,7 +1,7 @@
 name: very_easy_localization
 description: "Very Easy Localization: Very Easily Extract Strings From your Flutter App & create localization in 100+ languages using google translate with google translate."
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/YashMakan/very_easy_localization
 
 environment:
   sdk: '>=2.17.3 <3.0.0'
